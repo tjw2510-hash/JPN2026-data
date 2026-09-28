@@ -21,6 +21,7 @@ These were attachments in the booking emails and could not be copied automatical
 |---|---|
 | `jreast-pickup-qr.png` | JR-EAST "[Reservation accepted] ... 10/24" (the QR image in the email) |
 | `usj-voucher.pdf` | "Fwd: You're on your way! Booking NUT433342 confirmed." |
+| `usj-express-pass.pdf` | USJ Express Pass (not in jonbloomy@gmail.com; saved from wherever it was issued) |
 | `krisflyer-osaka.pdf` | "Fw: Booking confirmation - Booking ID: 2026044284" |
 | `krisflyer-kyoto.pdf` | "Booking confirmation - Booking ID: 2018102254" (Confirmation_for_Booking_ID...) |
 | `krisflyer-kyoto-checkin.pdf` | same email (special_checkin_...) |

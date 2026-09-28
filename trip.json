@@ -174,8 +174,13 @@
       "files": [
         {
           "kind": "voucher",
-          "label": "Voucher PDF",
+          "label": "Studio Pass voucher PDF",
           "path": "attachments/usj-voucher.pdf"
+        },
+        {
+          "kind": "voucher",
+          "label": "Express Pass PDF",
+          "path": "attachments/usj-express-pass.pdf"
         },
         {
           "kind": "doc",
