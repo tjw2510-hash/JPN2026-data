@@ -308,6 +308,32 @@
           "path": "attachments/mitsui-email.html"
         }
       ]
+    },
+    {
+      "id": "flight-sq636",
+      "type": "flight",
+      "start": "2026-10-23T22:50+08:00",
+      "end": "2026-10-24T06:45+09:00",
+      "provider": "Singapore Airlines",
+      "name": "SQ636",
+      "from": "Singapore Changi T2",
+      "to": "Tokyo Haneda T3",
+      "lat": 35.5494,
+      "lng": 139.7798,
+      "region": "kanto",
+      "hub": "haneda",
+      "walkMins": 0
+    },
+    {
+      "id": "flight-sq635",
+      "type": "flight",
+      "start": "2026-11-13T22:55+09:00",
+      "end": "2026-11-14T05:15+08:00",
+      "provider": "Singapore Airlines",
+      "name": "SQ635",
+      "from": "Tokyo Haneda T3",
+      "to": "Singapore Changi",
+      "leaving": true
     }
   ],
   "reminders": [
@@ -322,6 +348,12 @@
       "due": "2026-10-07T08:00+09:00",
       "title": "Nozomi 254 seats and QR-Tickets arrive by email",
       "sub": "Add both QR-Tickets to Apple Wallet, screenshot them, and update car and seats in the app data"
+    },
+    {
+      "id": "remind-visit-japan-web",
+      "due": "2026-10-21T20:00+09:00",
+      "title": "Register both of you on Visit Japan Web",
+      "sub": "Immigration and customs QR codes for SQ636. Needs passports and the Kanazawa hotel address. Screenshot both QR codes."
     },
     {
       "id": "remind-shirakawago-meeting",
@@ -340,6 +372,12 @@
       "due": "2026-10-28T09:00+09:00",
       "title": "Exchange the Thunderbird voucher at Kanazawa Station",
       "sub": "Klook SNY755390: QR plus both passports; check out by 11:00"
+    },
+    {
+      "id": "remind-tax-refund",
+      "due": "2026-11-12T20:00+09:00",
+      "title": "Pack tax-free purchases where you can show them",
+      "sub": "At Haneda T3, do the customs tax-refund kiosk before bag drop. Bought from 1 Nov: tax is refunded only after customs confirms."
     }
   ]
 }
