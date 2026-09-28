@@ -24,7 +24,6 @@ These were attachments in the booking emails and could not be copied automatical
 | `usj-express-pass.pdf` | USJ Express Pass (not in jonbloomy@gmail.com; saved from wherever it was issued) |
 | `krisflyer-osaka.pdf` | "Fw: Booking confirmation - Booking ID: 2026044284" |
 | `krisflyer-kyoto.pdf` | "Booking confirmation - Booking ID: 2018102254" (Confirmation_for_Booking_ID...) |
-| `krisflyer-kyoto-checkin.pdf` | same email (special_checkin_...) |
 | `thunderbird-voucher.pdf` | Klook "Booking SNY755390 confirmed." |
 | `shirakawago-voucher.pdf` | Klook "Booking UCP155477 confirmed." |
 | `teamlab-voucher.pdf` | Klook "Booking ZRZ723350 confirmed." |

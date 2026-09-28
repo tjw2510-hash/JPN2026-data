@@ -237,7 +237,7 @@
       "room": "Standard King A, breakfast included",
       "guest": "Jun Wean Tan",
       "bookingNo": "2018102254",
-      "requirements": "Passports. Read the special check-in PDF before arriving.",
+      "requirements": "Passports",
       "policy": "Non-refundable, cannot be changed",
       "files": [
         {
@@ -249,11 +249,6 @@
           "kind": "pdf",
           "label": "Confirmation PDF",
           "path": "attachments/krisflyer-kyoto.pdf"
-        },
-        {
-          "kind": "pdf",
-          "label": "Special check-in instructions",
-          "path": "attachments/krisflyer-kyoto-checkin.pdf"
         }
       ]
     },
@@ -345,12 +340,6 @@
       "due": "2026-10-28T09:00+09:00",
       "title": "Exchange the Thunderbird voucher at Kanazawa Station",
       "sub": "Klook SNY755390: QR plus both passports; check out by 11:00"
-    },
-    {
-      "id": "remind-kyoto-checkin-pdf",
-      "due": "2026-11-04T20:00+09:00",
-      "title": "Read the Homm Stay special check-in PDF",
-      "sub": "Check-in tomorrow from 15:00"
     }
   ]
 }
