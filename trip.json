@@ -1,0 +1,351 @@
+{
+  "name": "Japan 2026",
+  "timeZone": "Asia/Tokyo",
+  "start": "2026-10-24",
+  "end": "2026-11-13",
+  "travellers": [
+    "Jon Tan",
+    "Soe Myat Myat Sun"
+  ],
+  "items": [
+    {
+      "id": "stay-daiwa-kanazawa",
+      "type": "stay",
+      "start": "2026-10-24T15:00+09:00",
+      "end": "2026-10-28T11:00+09:00",
+      "arrival": "2026-10-24T15:00+09:00",
+      "provider": "JAPANiCAN",
+      "name": "Daiwa Roynet Hotel Kanazawa-Ekinishiguchi",
+      "nameJa": "ダイワロイネットホテル金沢駅西口",
+      "city": "Kanazawa",
+      "region": "hokuriku",
+      "hub": "kanazawa-sta",
+      "walkMins": 5,
+      "tabelog": "https://tabelog.com/en/ishikawa/A1701/A170101/rstLst/?SrtT=rt",
+      "address": "1-12-17 Hirooka, Kanazawa, Ishikawa 920-0031",
+      "addressJa": "〒920-0031 石川県金沢市広岡1-12-17",
+      "phone": "076-224-5280",
+      "lat": 36.5783,
+      "lng": 136.6457,
+      "room": "Double room",
+      "guest": "Sun Soe Myat Myat",
+      "bookingNo": "6204514331",
+      "requirements": "The credit card used to book, and passports (copied at check-in)",
+      "policy": "Prepaid. 20% charge from 23 Oct, 80% on 24 Oct, 100% if no-show",
+      "files": [
+        {
+          "kind": "doc",
+          "label": "JAPANiCAN confirmation email",
+          "path": "attachments/japanican-email.html"
+        }
+      ]
+    },
+    {
+      "id": "train-kagayaki-511",
+      "type": "train",
+      "start": "2026-10-24T16:24+09:00",
+      "end": "2026-10-24T18:52+09:00",
+      "provider": "JR East",
+      "name": "Kagayaki 511",
+      "from": "Tokyo",
+      "to": "Kanazawa",
+      "car": "4",
+      "seats": [
+        "6D",
+        "6E"
+      ],
+      "class": "Reserved",
+      "passengers": "2 adults",
+      "method": "jreast-paper",
+      "reservationNo": "E49391",
+      "pickupCode": "20442409547521238",
+      "cardLast4": "1486",
+      "note": "The fare covers JR from any station in Tokyo's 23 wards, so you can start at your nearest JR station.",
+      "files": [
+        {
+          "kind": "pickupQr",
+          "label": "Pickup QR",
+          "path": "attachments/jreast-pickup-qr.png"
+        },
+        {
+          "kind": "doc",
+          "label": "JR-EAST confirmation email",
+          "path": "attachments/jreast-email.html"
+        }
+      ]
+    },
+    {
+      "id": "activity-shirakawago",
+      "type": "activity",
+      "start": "2026-10-27T09:40+09:00",
+      "end": "2026-10-27T17:00+09:00",
+      "provider": "Klook",
+      "name": "Shirakawa-go day tour",
+      "included": "Shirakawago and Kanazawa Day Tour: day trip to Shirakawago only",
+      "travellers": "2 adults",
+      "account": "jonbloomy@gmail.com",
+      "bookingRef": "UCP155477",
+      "appLink": "https://www.klook.com/",
+      "policy": "Valid on 27 Oct only. Show the mobile voucher.",
+      "files": [
+        {
+          "kind": "voucher",
+          "label": "Voucher PDF",
+          "path": "attachments/shirakawago-voucher.pdf"
+        },
+        {
+          "kind": "doc",
+          "label": "Klook confirmation email",
+          "path": "attachments/klook-shirakawago-email.html"
+        }
+      ]
+    },
+    {
+      "id": "gap-train-kanazawa-osaka",
+      "type": "gap",
+      "gap": "train",
+      "start": "2026-10-28T11:00+09:00",
+      "end": "2026-10-28T11:00+09:00",
+      "name": "Kanazawa → Osaka",
+      "note": "Klook ticket SNY755390 (2 adults): exchange the voucher QR with both passports at a JR ticket machine or ticket office in Kanazawa, and pick your train there",
+      "files": [
+        {
+          "kind": "voucher",
+          "label": "Thunderbird voucher PDF",
+          "path": "attachments/thunderbird-voucher.pdf"
+        },
+        {
+          "kind": "doc",
+          "label": "Klook ticket email",
+          "path": "attachments/klook-thunderbird-email.html"
+        }
+      ]
+    },
+    {
+      "id": "stay-hankyu-osaka",
+      "type": "stay",
+      "start": "2026-10-28T15:00+09:00",
+      "end": "2026-11-05T12:00+09:00",
+      "provider": "KrisFlyer vRooms",
+      "name": "Hotel Hankyu Gran Respire Osaka",
+      "nameJa": "ホテル阪急 グランレスパイア大阪",
+      "city": "Osaka",
+      "region": "kansai",
+      "hub": "umeda",
+      "walkMins": 8,
+      "tabelog": "https://tabelog.com/en/osaka/A2701/A270101/rstLst/?SrtT=rt",
+      "address": "Grand Green Osaka South Tower, 5-54 Ofuka-cho, Kita-ku, Osaka 530-0011",
+      "addressJa": "〒530-0011 大阪府大阪市北区大深町5番54号 グラングリーン大阪 南館",
+      "phone": "06-6372-8506",
+      "lat": 34.7057,
+      "lng": 135.495,
+      "access": "In Grand Green Osaka, next to JR Osaka Station",
+      "room": "Moderate Double Room",
+      "guest": "Soe Myat Myat Sun",
+      "bookingNo": "2026044284",
+      "requirements": "Passports. City tax is paid at check-in.",
+      "policy": "Paid. Free cancellation until 27 Oct; 80% charge from 27 Oct, 100% from 28 Oct or if no-show",
+      "files": [
+        {
+          "kind": "doc",
+          "label": "KrisFlyer vRooms confirmation email",
+          "path": "attachments/krisflyer-osaka-email.html"
+        },
+        {
+          "kind": "pdf",
+          "label": "Confirmation PDF",
+          "path": "attachments/krisflyer-osaka.pdf"
+        }
+      ]
+    },
+    {
+      "id": "activity-usj",
+      "type": "activity",
+      "start": "2026-10-29T13:00+09:00",
+      "end": "2026-10-29T20:00+09:00",
+      "provider": "Klook",
+      "name": "Universal Studios Japan",
+      "included": "1-day Studio Pass + Super Nintendo World entry (with free food voucher) + Have Fun in Kansai Pass",
+      "travellers": "2 adults",
+      "account": "tjw2510@gmail.com",
+      "bookingRef": "NUT433342",
+      "appLink": "https://click.klook.com/ls/click?upn=u001.QPstsPdrjwzo-2FzalvlwHUXh-2FHduqvda4buVNBGEL0nHEI9XfE30iVmdVnrnbqnj5rxpr8-2BAC1cz6MUZ29rVN0TVIiGu4FB7B7yc-2FlDd2nQgxrUZUvGS-2BYWWfumX-2Fi3FoWSzCpuB0SS49xbpBixlgJTb8B-2BPYab8snUV0F4SvCma1vpwUI0p0Su-2Bns-2Bj9e0xk-2BGUXNDelBLyK0Mtq0XKz0nKtJtVX-2BHst1HYG6e5u6oZf6wfVMVh4AuRSbJYSiOSsS277O-2B1WnD9CKVF4A5q5-2F2fCCDBH811McWJGJAf4VwA14Ugpn8PMNF-2BiHLAA-2BDBBAK3Fz7ozHILGeD4I6yoZbvihkxMg13VJtQQTYzvWikyScN7NoPM-2FE5iJYebA-2BQqBhJaiSlE3GjX3fJmmYZ0s2M-2BdJOqj-2BmhOOW5YMMMmi-2BAiAm9r-2FWlZEstqgEgg4jzsRnKLiDPUePIW0hMv-2FRPl3vDOYkIwWw1MUdNCVwfuaZ-2Fx6xht62-2BX2jIyI7VKbQbGo4x45oxlHVyhhnO9myEgYs5gTcLq-2BNOPuUSGD-2FvF3-2Bp9dlUEWGZ3aFv3ON9p3XlVNM-2F5pHpbvO5OSeJl2LQb0Vb9cIcX8Y-2Bz7-2BToIkuH5M0uTWNyGbgrh-2Fey1KSTNF3ejIgMg79JH91cMN8W2Vg0ywWu-2BOIr2uq73sWuReQX0V4RCcpYlYd0QJzsKJj3Y-2B3gPpcPnEK7GdLSycWY4L-2FdpuTlbJYic6J8-2FEksTWj9qvBLnrhxCPHEIqmtNMkfA42ana2eIR0LTR5tLi0liAmDTO9fgVVDQDmNCV2KoliF6iEvLC2QeqLd7hWDiLO91g-2FsZLZ-2FA2L5MZFUtL2ctyHUltMJ-2FLKCUoQF-2Fu7aooZ8tLrct6f62GkCrKFmgtDxh-2Bww4XfzM6uH5HHQNNooeaQh4yCQelYTmf0F93Oo1krp-2FiWmeJwQLhlcHckG-2BXKJvVPSeMIyXbHfEa1rNVnXrWYiglATVVsJGP25iTu2UckevSAOKP2lMhMTaToyHMUSe4fnpgdZlebQaMssCO1H1yo6thEbox76kqVZL0JDXyb0OwYHFHIZ09zejD8bdX5xVl8c3kSygBv-2BmljQzX5suhwcCBJhHUkJEJ3KfHg6whvneEyvotrmp0EQXB0Z3TVA-2Br0boBfYdOxflftYnoCkpE-2FPeBEBaTbVrG3qq0kP7PS1Rmy8jxmxuGUWiU10qzOuYoCyEwtOPsf4EWnhCcUusBa8XXwqIHVfLeHPm1o6p4bVwjNyzNq-2B5l-2B6S9CyU1WIB8BmjzG73HLvMMXY-2FTdYTrDjypU5jtxh7Sg9dPmLaL6-2FzC9xPvJ7HLukuJgW8H-2BBYqvkBDM6VUOaNka8TKDEoLBDvF3niDwm4RIlL0sSZHokJdc8GQ0lPrz0EfDJ-2FL2OUg6R6KApzOM3vrpRVKdJVVCLy7TT-2F4EHGO4efaeFa1tjrGE2iWtLrmwUotoyRrIfeQpQvlOpimStRyKI-2BK4EIsa00k82qcwiuY-2BBYlE8LfF9vdNgQNNXCUc-2FXRIdsjKdSypFw23IXubWhLN-2BAkjKQXyrUvV3AtY3tEZ6fa5c266sMB3F2cjYosXN8nvTzdgU92hgxP17ue21iqBkcx7R5jUsbwUva7oSflm9S-2BGR43ZX89dKQ4wmmtvCVh6H6fcWbo2IPKrQCWxIvB3x3Gw7EEKkKfJpifKShgUVsKaDvMoT9xf7lvfuJYDhXcyOl2suXAxfm4m0uzNugyuLfzD2CSaSyqkn-2F65fewM-2FMwhznvkXjkigw0LMgagjXTVlqPtm0YphKjo7Mv8ps5da-2FRP06zCFKA-3D-3DwNBw_sFw3GwRO5vrU8gstTVr8778zA0IXe53W-2BOjkNtB01H13Bgr6F1CrnWyOl3NBeYz2gBnuRce9-2BFiRtoWl9Tk-2BoRWgGcMjUh-2FdYAwcE9Dhc2-2Fx6rDus1V5w11d6hIzYp1PHiS4C-2FpTzzW7kAZqgIicQ8aSGkW34gl-2FPFHnJlc9-2FMfeHz7olky-2BjiIe2iv3EuHQsngTsj1cPsXCJu0Dj6RxAg-3D-3D",
+      "policy": "No cancellations or refunds",
+      "files": [
+        {
+          "kind": "voucher",
+          "label": "Voucher PDF",
+          "path": "attachments/usj-voucher.pdf"
+        },
+        {
+          "kind": "doc",
+          "label": "Klook confirmation email",
+          "path": "attachments/klook-email.html"
+        }
+      ]
+    },
+    {
+      "id": "activity-teamlab-osaka",
+      "type": "activity",
+      "start": "2026-10-30T18:00+09:00",
+      "end": "2026-10-30T20:00+09:00",
+      "provider": "Klook",
+      "name": "teamLab Botanical Garden Osaka",
+      "included": "Admission ticket. At Nagai Botanical Garden, about 800 m east of Midosuji-line Nagai Station exit 3. Open 18:00-22:30, last entry 21:30.",
+      "travellers": "2 adults",
+      "account": "jonbloomy@gmail.com",
+      "bookingRef": "ZRZ723350",
+      "appLink": "https://www.klook.com/",
+      "policy": "Valid on 30 Oct only. ID may be checked at entry.",
+      "files": [
+        {
+          "kind": "voucher",
+          "label": "Voucher PDF",
+          "path": "attachments/teamlab-voucher.pdf"
+        },
+        {
+          "kind": "doc",
+          "label": "Klook confirmation email",
+          "path": "attachments/klook-teamlab-email.html"
+        }
+      ]
+    },
+    {
+      "id": "stay-homm-arashiyama",
+      "type": "stay",
+      "start": "2026-11-05T15:00+09:00",
+      "end": "2026-11-07T11:00+09:00",
+      "provider": "KrisFlyer vRooms",
+      "name": "Homm Stay Nagi Arashiyama Kyoto by Banyan Group",
+      "nameJa": "ホーム・ステイ・椛 嵐山 京都 by バンヤン・グループ",
+      "city": "Kyoto",
+      "region": "kansai",
+      "hub": "saga-arashiyama",
+      "walkMins": 3,
+      "tabelog": "https://tabelog.com/en/kyoto/A2601/A260403/rstLst/?SrtT=rt",
+      "address": "17-4 Saga Tenryuji Wakamiya-cho, Ukyo-ku, Kyoto 616-8371",
+      "addressJa": "〒616-8371 京都府京都市右京区嵯峨天龍寺若宮町17-4",
+      "phone": "075-863-1515",
+      "lat": 35.0177,
+      "lng": 135.6808,
+      "access": "3 min walk from JR Saga-Arashiyama Station",
+      "room": "Standard King A, breakfast included",
+      "guest": "Jun Wean Tan",
+      "bookingNo": "2018102254",
+      "requirements": "Passports. Read the special check-in PDF before arriving.",
+      "policy": "Non-refundable, cannot be changed",
+      "files": [
+        {
+          "kind": "doc",
+          "label": "KrisFlyer vRooms confirmation email",
+          "path": "attachments/krisflyer-kyoto-email.html"
+        },
+        {
+          "kind": "pdf",
+          "label": "Confirmation PDF",
+          "path": "attachments/krisflyer-kyoto.pdf"
+        },
+        {
+          "kind": "pdf",
+          "label": "Special check-in instructions",
+          "path": "attachments/krisflyer-kyoto-checkin.pdf"
+        }
+      ]
+    },
+    {
+      "id": "train-nozomi-254",
+      "type": "train",
+      "start": "2026-11-07T13:30+09:00",
+      "end": "2026-11-07T15:45+09:00",
+      "provider": "SmartEX",
+      "name": "Nozomi 254",
+      "from": "Kyoto",
+      "to": "Tokyo",
+      "car": null,
+      "seats": [],
+      "class": "Ordinary",
+      "passengers": "2 adults",
+      "method": "smartex-qr",
+      "reservationNo": "2001",
+      "seatsConfirmed": "2026-10-07T08:00+09:00",
+      "note": "Oversized-baggage seats: store big bags in the space behind your seats. Shinkansen only; this fare doesn't cover conventional lines.",
+      "files": [
+        {
+          "kind": "doc",
+          "label": "SmartEX change confirmation email",
+          "path": "attachments/smartex-email.html"
+        }
+      ]
+    },
+    {
+      "id": "stay-mitsui-ueno",
+      "type": "stay",
+      "start": "2026-11-07T15:00+09:00",
+      "end": "2026-11-13T11:00+09:00",
+      "arrival": "2026-11-07T17:00+09:00",
+      "provider": "Hotel website",
+      "name": "Mitsui Garden Hotel Ueno",
+      "nameJa": "三井ガーデンホテル上野",
+      "city": "Tokyo",
+      "region": "kanto",
+      "hub": "ueno-sta",
+      "walkMins": 5,
+      "tabelog": "https://tabelog.com/en/tokyo/A1311/A131101/rstLst/?SrtT=rt",
+      "address": "3-19-7 Higashi-Ueno, Taito-ku, Tokyo 110-0015",
+      "addressJa": "〒110-0015 東京都台東区東上野3-19-7",
+      "phone": "03-3839-1131",
+      "lat": 35.7117,
+      "lng": 139.779,
+      "room": "Superior, 1 queen bed, non-smoking",
+      "guest": "Soe Sun",
+      "bookingNo": "3648-7078-3429",
+      "requirements": "Passports",
+      "policy": "Non-refundable, prepaid",
+      "files": [
+        {
+          "kind": "doc",
+          "label": "Mitsui Garden confirmation email",
+          "path": "attachments/mitsui-email.html"
+        }
+      ]
+    }
+  ],
+  "reminders": [
+    {
+      "id": "remind-navitime-refund",
+      "due": "2026-10-02T12:00+09:00",
+      "title": "Check the NAVITIME refund reached your card",
+      "sub": "JPY 32,308, cancelled 28 Sep (application SH000002062947)"
+    },
+    {
+      "id": "remind-nozomi-seats",
+      "due": "2026-10-07T08:00+09:00",
+      "title": "Nozomi 254 seats and QR-Tickets arrive by email",
+      "sub": "Add both QR-Tickets to Apple Wallet, screenshot them, and update car and seats in the app data"
+    },
+    {
+      "id": "remind-shirakawago-meeting",
+      "due": "2026-10-26T20:00+09:00",
+      "title": "Check the Shirakawa-go meeting point in the Klook voucher",
+      "sub": "Tour starts 09:40 tomorrow"
+    },
+    {
+      "id": "remind-osaka-free-cancel",
+      "due": "2026-10-26T23:59+09:00",
+      "title": "Last moment to cancel the Osaka hotel for free",
+      "sub": "80% charge from 27 Oct"
+    },
+    {
+      "id": "remind-thunderbird-exchange",
+      "due": "2026-10-28T09:00+09:00",
+      "title": "Exchange the Thunderbird voucher at Kanazawa Station",
+      "sub": "Klook SNY755390: QR plus both passports; check out by 11:00"
+    },
+    {
+      "id": "remind-kyoto-checkin-pdf",
+      "due": "2026-11-04T20:00+09:00",
+      "title": "Read the Homm Stay special check-in PDF",
+      "sub": "Check-in tomorrow from 15:00"
+    }
+  ]
+}
