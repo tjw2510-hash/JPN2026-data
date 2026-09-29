@@ -344,6 +344,42 @@
       "sub": "JPY 32,308, cancelled 28 Sep (application SH000002062947)"
     },
     {
+      "id": "remind-book-sho-sushi",
+      "due": "2026-10-04T20:00+09:00",
+      "title": "Reserve Sho Sushi Katamachi for 24 Oct, 19:45 or 20:00",
+      "sub": "050-3091-2446, or ask the Kanazawa hotel to call. Backup: Morimori Sushi, walk-in."
+    },
+    {
+      "id": "remind-book-takasakiya",
+      "due": "2026-10-04T20:00+09:00",
+      "title": "Call Sushi Takasakiya for 25 Oct dinner",
+      "sub": "076-221-2477"
+    },
+    {
+      "id": "remind-book-myoryuji",
+      "due": "2026-10-04T20:00+09:00",
+      "title": "Reserve the Myoryu-ji (Ninja Temple) tour for 26 Oct, about 14:00",
+      "sub": "Guided tours by phone reservation only"
+    },
+    {
+      "id": "remind-book-itaru",
+      "due": "2026-10-04T20:00+09:00",
+      "title": "Reserve Itaru Honten for 26 Oct, 18:00",
+      "sub": "Not the Itaru nodoguro lunch shop next door"
+    },
+    {
+      "id": "remind-book-fuwari",
+      "due": "2026-10-04T20:00+09:00",
+      "title": "Reserve Fuwari for 27 Oct, 19:00",
+      "sub": "Walk-in backup: Higashiyama Torihada"
+    },
+    {
+      "id": "remind-book-kishokichi",
+      "due": "2026-10-04T20:00+09:00",
+      "title": "Reserve Kobe Beef Kishokichi for 31 Oct, 17:30",
+      "sub": "Alternative: Kobe Beef Amami"
+    },
+    {
       "id": "remind-nozomi-seats",
       "due": "2026-10-07T08:00+09:00",
       "title": "Nozomi 254 seats and QR-Tickets arrive by email",
@@ -356,10 +392,22 @@
       "sub": "Immigration and customs QR codes for SQ636. Needs passports and the Kanazawa hotel address. Screenshot both QR codes."
     },
     {
+      "id": "remind-book-ecbo",
+      "due": "2026-10-22T20:00+09:00",
+      "title": "Optional: book ecbo cloak near Tokyo Station for 24 Oct",
+      "sub": "Backup if the big coin lockers are full"
+    },
+    {
+      "id": "remind-book-pool",
+      "due": "2026-10-25T08:00+09:00",
+      "title": "Book the 21st Century Museum Swimming Pool slot",
+      "sub": "Online, this morning, for about 13:30"
+    },
+    {
       "id": "remind-shirakawago-meeting",
       "due": "2026-10-26T20:00+09:00",
       "title": "Check the Shirakawa-go meeting point in the Klook voucher",
-      "sub": "Tour starts 09:40 tomorrow"
+      "sub": "Tour starts 09:40 tomorrow. Confirm the return time: the afternoon plan needs you back by 15:00."
     },
     {
       "id": "remind-osaka-free-cancel",
@@ -379,5 +427,667 @@
       "title": "Pack tax-free purchases where you can show them",
       "sub": "At Haneda T3, do the customs tax-refund kiosk before bag drop. Bought from 1 Nov: tax is refunded only after customs confirms."
     }
-  ]
+  ],
+  "days": {
+    "2026-10-24": {
+      "title": "Tokyo to Kanazawa",
+      "notes": [
+        "Backup if Sho Sushi is full: Morimori Sushi (Forus 6F, by Kanazawa Station, open to 21:30, walk-in)."
+      ],
+      "stops": [
+        {
+          "time": "07:45",
+          "what": "Clear immigration and customs",
+          "label": "~07:45",
+          "notes": "Visit Japan Web QR codes ready. Get Suica, or set up mobile Suica beforehand. Paid shower rooms in T3."
+        },
+        {
+          "time": "08:15",
+          "what": "Keikyu to Shinagawa, JR to Tokyo Station",
+          "notes": "Board toward Shinagawa/Sengakuji, not Yokohama. Then JR Yamanote or Keihin-Tohoku northbound."
+        },
+        {
+          "time": "08:50",
+          "what": "Store bags at Tokyo Station",
+          "notes": "Large coin lockers are free this early. ecbo cloak as backup."
+        },
+        {
+          "time": "09:00",
+          "what": "Toei Mita line, Otemachi to Jimbocho",
+          "notes": "1 stop."
+        },
+        {
+          "time": "09:20",
+          "what": "Glitch Coffee & Roasters",
+          "notes": "The original, 3-16 Kanda-Nishikicho. Weekends 09:00 to 19:00. Arrive early to beat the Saturday queue.",
+          "map": "Glitch Coffee & Roasters, 3-16 Kanda Nishikicho, Chiyoda, Tokyo"
+        },
+        {
+          "time": "10:15",
+          "what": "Jimbocho secondhand bookshops",
+          "notes": "Most open 10:00 to 11:00.",
+          "map": "Jimbocho bookstore street, Tokyo"
+        },
+        {
+          "time": "11:00",
+          "what": "Lunch: Bondy",
+          "notes": "Jimbocho main branch, 2F Kanda Kosho Center Bldg, 2-3-3 Kanda Jimbocho. Sat opens 10:00. Beef curry and baked pudding. Queues build by noon.",
+          "map": "Bondy, 2-3-3 Kanda Jimbocho, Chiyoda, Tokyo",
+          "link": "https://tabelog.com/en/tokyo/A1310/A131002/13038044/"
+        },
+        {
+          "time": "13:00",
+          "what": "Imperial Palace East Gardens",
+          "notes": "About 20 min walk via Takebashi. Free, open Saturday. Exit via Otemon.",
+          "map": "Imperial Palace East Gardens, Tokyo"
+        },
+        {
+          "time": "15:15",
+          "what": "Tokyo Station: collect bags, buy ekiben",
+          "notes": "About 10 min walk. Ekibenya Matsuri, central concourse.",
+          "map": "Ekibenya Matsuri, Tokyo Station"
+        },
+        {
+          "time": "16:05",
+          "what": "Hokuriku Shinkansen platforms 20 to 23",
+          "notes": "Kagayaki 511 leaves 16:24. Sleep."
+        },
+        {
+          "time": "19:45",
+          "what": "Dinner: Sho Sushi Katamachi",
+          "notes": "1-8-24 Katamachi, Hokuriku Saikawa Bldg 1F. 8-seat omakase counter: sea urchin and nodoguro hand roll. Taxi about 10 min from the station. Reserve.",
+          "map": "1-8-24 Katamachi, Kanazawa",
+          "phone": "050-3091-2446"
+        }
+      ]
+    },
+    "2026-10-25": {
+      "title": "Castle, Kenroku-en and the museum quarter",
+      "route": "All walking, about 3 km: Curio, Oyama Shrine, Kanazawa Castle, Kenroku-en, 21st Century Museum, D.T. Suzuki Museum, dinner.",
+      "notes": [
+        "Miyuki and Itaru are closed Sundays."
+      ],
+      "stops": [
+        {
+          "time": "08:00",
+          "what": "Breakfast: Curio Espresso",
+          "notes": "Yasuecho. Sun 08:00 to 15:00. Breakfast sandwich. Arrive at opening.",
+          "map": "Curio Espresso and Vintage Design, Kanazawa"
+        },
+        {
+          "time": "09:00",
+          "what": "Oyama Shrine",
+          "notes": "10 min walk. Stained-glass gate.",
+          "map": "Oyama Shrine, Kanazawa"
+        },
+        {
+          "time": "09:15",
+          "what": "Kanazawa Castle Park and Gyokusen-inmaru Garden",
+          "notes": "In via Nezumitamon, out via Ishikawa-mon.",
+          "map": "Kanazawa Castle Park"
+        },
+        {
+          "time": "09:45",
+          "what": "Kenroku-en",
+          "notes": "Cross the bridge, enter by Katsurazaka gate. Beat the tour buses.",
+          "map": "Kenroku-en, Kanazawa"
+        },
+        {
+          "time": "10:30",
+          "what": "Tea: Shigure-tei",
+          "notes": "Inside Kenroku-en. Matcha and wagashi with a garden view. About 40 min with the wait.",
+          "map": "Shigure-tei, Kenroku-en"
+        },
+        {
+          "time": "12:00",
+          "what": "Lunch: Kenrokutei",
+          "notes": "At the garden. Jibuni set about ¥3,000. Ask for a window seat.",
+          "map": "Kenrokutei, Kanazawa"
+        },
+        {
+          "time": "13:30",
+          "what": "21st Century Museum of Contemporary Art",
+          "notes": "Leave Kenroku-en by Mayumizaka gate, 3 min. Swimming Pool slot booked online that morning. Closed Mon.",
+          "map": "21st Century Museum of Contemporary Art, Kanazawa"
+        },
+        {
+          "time": "15:30",
+          "what": "D.T. Suzuki Museum",
+          "notes": "10 min walk via Honda-machi. Closes 17:00. Closed Mon.",
+          "map": "D.T. Suzuki Museum, Kanazawa"
+        },
+        {
+          "time": "18:00",
+          "what": "Dinner: Sushi Takasakiya",
+          "notes": "Takaokamachi. Sun 17:00 to 20:30. 10-piece omakase about ¥3,000. Tiny counter: call ahead.",
+          "map": "Sushi Takasakiya, Takaokamachi, Kanazawa",
+          "phone": "076-221-2477"
+        }
+      ]
+    },
+    "2026-10-26": {
+      "title": "Omicho, Nagamachi, Nishi Chaya and Teramachi",
+      "route": "North to south: Omicho, townsfolk, Nagamachi, Korinbo, Sai River bridge, Teramachi and Nishi Chaya, back across the bridge to dinner.",
+      "stops": [
+        {
+          "time": "08:30",
+          "what": "Breakfast: Iki-iki Tei",
+          "notes": "Omicho Market. Mon 07:00 to 13:30. Kaisendon about ¥2,500. Write your order on the sheet at the door. Cash only.",
+          "map": "Iki-iki Tei, Omicho Market, Kanazawa"
+        },
+        {
+          "time": "09:15",
+          "what": "Browse Omicho Market",
+          "map": "Omicho Market, Kanazawa"
+        },
+        {
+          "time": "10:00",
+          "what": "Coffee: townsfolk coffee",
+          "notes": "22-18 Takaokamachi. Light roast, Copenhagen style. On the way to Nagamachi.",
+          "map": "townsfolk coffee, 22-18 Takaokamachi, Kanazawa"
+        },
+        {
+          "time": "10:45",
+          "what": "Nagamachi Samurai District",
+          "notes": "Nomura-ke (08:30 to 17:30), Onosho canal lanes, Nagamachi Yuzen-kan.",
+          "map": "Nomura Samurai House, Kanazawa"
+        },
+        {
+          "time": "12:30",
+          "what": "Lunch: Otafuku Nagamachi",
+          "notes": "One-man udon shop, ¥630 to ¥950. Cash only.",
+          "map": "Otafuku, Nagamachi, Kanazawa"
+        },
+        {
+          "time": "13:30",
+          "what": "Walk south via Korinbo, cross the Sai River",
+          "notes": "About 20 min."
+        },
+        {
+          "time": "14:00",
+          "what": "Myoryu-ji (Ninja Temple)",
+          "notes": "Guided tour only. Reserve by phone.",
+          "map": "Myoryuji, Kanazawa"
+        },
+        {
+          "time": "15:00",
+          "what": "Sweets: Moroeya Ajiwai",
+          "notes": "Nishi Chaya. Grill-your-own mochi zenzai ¥880.",
+          "map": "Moroeya, Nishi Chaya, Kanazawa"
+        },
+        {
+          "time": "15:45",
+          "what": "Nishi Chaya District",
+          "notes": "Small, 30 min.",
+          "map": "Nishi Chaya District, Kanazawa"
+        },
+        {
+          "time": "16:15",
+          "what": "Kutani Kosen Kiln",
+          "notes": "Kutani-yaki. Closes 17:00.",
+          "map": "Kutani Kosen Gama, Kanazawa"
+        },
+        {
+          "time": "18:00",
+          "what": "Dinner: Itaru Honten",
+          "notes": "3-8 Kakinokibatake, about 15 min walk back across the bridge. Opens 17:30. Kaga set about ¥8,800. Reserve. Not the Itaru nodoguro lunch shop next door.",
+          "map": "Itaru Honten, 3-8 Kakinokibatake, Kanazawa"
+        }
+      ]
+    },
+    "2026-10-27": {
+      "title": "Shirakawa-go, then Higashiyama",
+      "route": "Shirakawa-go bus, Kanazawa Station, bus to Hashiba-cho, Higashiyama on foot, Owaricho dinner (10 min walk).",
+      "notes": [
+        "Walk-in dinner backup: Higashiyama Torihada (yakitori and hot pot, Tue 17:00 to 21:00).",
+        "Jiyuken is closed Tuesdays."
+      ],
+      "stops": [
+        {
+          "time": "15:00",
+          "what": "Coffee: Nonstop Coffee Stand",
+          "notes": "2-6-2-3 Higashiyama. Tue only 12:00 to 16:00. Pour-over in a wine glass. Go first.",
+          "map": "Nonstop Coffee Stand, Higashiyama, Kanazawa",
+          "warn": "Your Shirakawa-go tour is booked until 17:00, and this closes at 16:00. Confirm the return time."
+        },
+        {
+          "time": "15:45",
+          "what": "Higashi Chaya District",
+          "notes": "Shima or Kaikaro teahouse, gold leaf shops. Shops close 17:00 to 18:00.",
+          "map": "Higashi Chaya District, Kanazawa"
+        },
+        {
+          "time": "16:15",
+          "what": "Gold leaf ice cream: Hakuichi",
+          "notes": "09:00 to 18:00.",
+          "map": "Hakuichi Higashiyama, Kanazawa"
+        },
+        {
+          "time": "16:45",
+          "what": "Matcha and wagashi: Morihachi",
+          "notes": "Higashi branch. 400-year-old confectioner. 09:00 to 18:00.",
+          "map": "Morihachi Higashiyama, Kanazawa"
+        },
+        {
+          "time": "17:15",
+          "what": "Utatsuyama temple lanes",
+          "notes": "Optional, 5 min uphill."
+        },
+        {
+          "time": "17:30",
+          "what": "Kazue-machi and the Asano River at dusk",
+          "notes": "Lantern-lit geisha street.",
+          "map": "Kazuemachi, Kanazawa"
+        },
+        {
+          "time": "19:00",
+          "what": "Dinner: Fuwari",
+          "notes": "Owaricho. Tue 17:00 to 23:00. Wagyu, pressed sushi, pear sorbet. Reserve.",
+          "map": "Fuwari, Owaricho, Kanazawa"
+        }
+      ]
+    },
+    "2026-10-28": {
+      "title": "Check out, to Osaka",
+      "stops": [
+        {
+          "time": "08:30",
+          "what": "Breakfast: Curio Espresso",
+          "notes": "Wed 08:30 to 13:00.",
+          "map": "Curio Espresso and Vintage Design, Kanazawa"
+        },
+        {
+          "time": "09:30",
+          "what": "Buffer for anything missed",
+          "notes": "Some Omicho stalls close Wednesdays. Museums open again."
+        },
+        {
+          "time": "11:00",
+          "what": "Check out; takkyubin bags to the Osaka hotel",
+          "label": "~11:00",
+          "notes": "Hand bags to the front desk. They arrive the next day. Travel with a daypack."
+        },
+        {
+          "time": "11:30",
+          "what": "Lunch: Morimori Sushi",
+          "notes": "Forus 6F, by Kanazawa Station. Opens 11:00. Premium kaiten, torched nodoguro. Go early.",
+          "map": "Morimori Sushi, Kanazawa Forus"
+        },
+        {
+          "time": "13:30",
+          "what": "Hokuriku Shinkansen to Tsuruga, Thunderbird to Osaka",
+          "label": "~13:30",
+          "notes": "About 2.5 hours with the transfer. Reserved seats on both legs."
+        },
+        {
+          "time": "16:00",
+          "what": "Arrive Osaka, check in",
+          "label": "~16:00",
+          "notes": "USJ tomorrow: early night."
+        },
+        {
+          "time": "17:30",
+          "what": "Dinner: Okonomiyaki Sakaba O",
+          "notes": "Namba 1-7-15, Edoyasu Bldg B1F, behind Shochikuza. 17:00 to 23:00 (L.O. 22:00), open daily. 15 seats, no reservations: arrive near opening. Smoking allowed. About ¥3,000 to ¥4,000. Buta-tama and yakisoba.",
+          "map": "Okonomiyaki Sakaba O, 1-7-15 Namba, Osaka",
+          "link": "https://tabelog.com/en/osaka/A2701/A270202/27110200/"
+        }
+      ]
+    },
+    "2026-10-29": {
+      "title": "Universal Studios Japan",
+      "stops": [
+        {
+          "time": "07:30",
+          "what": "Arrive at the USJ gates",
+          "label": "~07:30",
+          "notes": "About an hour before opening. JR to Universal City. Halloween season: expect crowds.",
+          "map": "Universal Studios Japan",
+          "warn": "Your USJ booking in the app starts at 13:00. Check the entry time on the voucher."
+        },
+        {
+          "time": "18:00",
+          "what": "Dinner at Universal CityWalk or near the hotel",
+          "label": "Evening",
+          "notes": "Early night."
+        }
+      ]
+    },
+    "2026-10-30": {
+      "title": "Kitahama, Tennoji, teamLab at night",
+      "route": "Kitahama and Nakanoshima on foot, Sakaisuji line Kitahama to Ebisucho (about 10 min), Shinsekai, Shitennoji, Tennoji Park, Abeno Harukas, Midosuji line Tennoji to Nagai (3 stops).",
+      "stops": [
+        {
+          "time": "09:00",
+          "what": "Coffee: SÖT Coffee Roaster",
+          "notes": "Kitahama, 1-5-7 Awajimachi. Weekdays 09:00 to 17:00.",
+          "map": "SOT Coffee Roaster Kitahama, Osaka"
+        },
+        {
+          "time": "10:00",
+          "what": "Nakanoshima Rose Garden and Central Public Hall",
+          "notes": "Free.",
+          "map": "Nakanoshima Rose Garden, Osaka"
+        },
+        {
+          "time": "11:00",
+          "what": "Tea and cake: Kitahama Retro",
+          "notes": "1912 building, British tea room. Opens 11:00 weekdays. Light lunch.",
+          "map": "Kitahama Retro, Osaka"
+        },
+        {
+          "time": "12:30",
+          "what": "Sakaisuji line, Kitahama to Ebisucho"
+        },
+        {
+          "time": "13:00",
+          "what": "Shinsekai and kushikatsu",
+          "notes": "Jan Jan Yokocho. 30 min past Tsutenkaku.",
+          "map": "Jan Jan Yokocho, Osaka"
+        },
+        {
+          "time": "13:45",
+          "what": "Shitennoji",
+          "notes": "15 min walk. Closes 16:00.",
+          "map": "Shitennoji, Osaka"
+        },
+        {
+          "time": "15:15",
+          "what": "Coffee: AUN Coffee",
+          "notes": "Right behind the temple. Matcha cheesecake.",
+          "map": "AUN Coffee, Tennoji, Osaka"
+        },
+        {
+          "time": "15:45",
+          "what": "Keitakuen Garden",
+          "notes": "Tennoji Park. ¥300. 09:30 to 17:00.",
+          "map": "Keitakuen Garden, Osaka"
+        },
+        {
+          "time": "16:45",
+          "what": "Harukas 300 observatory",
+          "notes": "09:00 to 22:00. Open-air roof terrace. Sunset about 17:10.",
+          "map": "Harukas 300, Osaka"
+        },
+        {
+          "time": "17:45",
+          "what": "Dinner: Abeno Harukas restaurant floors",
+          "map": "Abeno Harukas, Osaka",
+          "warn": "Your teamLab booking in the app is 18:00, but this plan has you there at 19:00. Check the entry time on the ticket."
+        },
+        {
+          "time": "19:00",
+          "what": "teamLab Botanical Garden Osaka",
+          "notes": "Nagai Station exit 3, 10 min walk. 18:00 to 22:30, last entry 21:30.",
+          "map": "teamLab Botanical Garden Osaka"
+        }
+      ]
+    },
+    "2026-10-31": {
+      "title": "Day trip: Himeji and Kobe",
+      "route": "JR Special Rapid Osaka to Himeji (about 60 min), Himeji on foot, JR to Sannomiya (about 40 min), Kitano uphill (about 15 min), JR back to Osaka (about 25 min). Out of Osaka on Halloween night.",
+      "notes": [
+        "Alternative Kobe beef: Kobe Beef Amami (daily 11:00 to 23:00)."
+      ],
+      "stops": [
+        {
+          "time": "08:00",
+          "what": "JR Osaka to Himeji",
+          "notes": "IC card OK."
+        },
+        {
+          "time": "09:00",
+          "what": "Himeji Castle",
+          "notes": "Arrive at opening; Saturday crowds build fast.",
+          "map": "Himeji Castle"
+        },
+        {
+          "time": "11:00",
+          "what": "Koko-en Garden",
+          "notes": "Next to the castle.",
+          "map": "Kokoen Garden, Himeji"
+        },
+        {
+          "time": "11:45",
+          "what": "Coffee: Align Coffee Roaster",
+          "notes": "40 Sakatamachi, about 10 min from the castle. Opens 10:30. 90-minute seat limit.",
+          "map": "Align Coffee Roaster, Himeji"
+        },
+        {
+          "time": "12:30",
+          "what": "Lunch: Hiiragi (anago)",
+          "notes": "88 Junishomae-cho, about 10 min from the station. Lunch 11:00 to 14:00. Grilled conger eel. Queue likely.",
+          "map": "Hiiragi, Junishomaecho, Himeji"
+        },
+        {
+          "time": "14:00",
+          "what": "JR Himeji to Sannomiya"
+        },
+        {
+          "time": "15:00",
+          "what": "Kitano Ijinkan",
+          "notes": "Foreign merchant houses. Weathercock House 09:00 to 17:00, ¥500. Uphill from Sannomiya.",
+          "map": "Weathercock House, Kitano, Kobe"
+        },
+        {
+          "time": "17:30",
+          "what": "Dinner: Kobe Beef Teppanyaki Kishokichi",
+          "notes": "Sankita St, 1-9-4 Kitanagasadori. Daily 10:30 to 23:00. Upgrade to garlic fried rice. Reserve.",
+          "map": "Kobe Beef Kishokichi, Kitanagasadori, Kobe"
+        },
+        {
+          "time": "19:30",
+          "what": "JR Sannomiya to Osaka",
+          "label": "~19:30"
+        }
+      ]
+    },
+    "2026-11-01": {
+      "title": "Shopping: Horie, Amemura, Shinsaibashi",
+      "route": "All walking: Kitahorie, Shinmachi, Orange Street, Dotonbori, Amemura, Shinsaibashi-suji, Dotonbori at night. Most shops open 11:00 to 12:00.",
+      "stops": [
+        {
+          "time": "09:00",
+          "what": "Breakfast: Mondial Kaffee 328",
+          "notes": "Kitahorie. Daily 08:30 to 21:00. French toast, egg sandwich.",
+          "map": "Mondial Kaffee 328, Kitahorie, Osaka"
+        },
+        {
+          "time": "11:00",
+          "what": "Coffee: Mel Coffee Roasters",
+          "notes": "Shinmachi. Sun opens 11:00. Takeaway only.",
+          "map": "Mel Coffee Roasters, Osaka"
+        },
+        {
+          "time": "11:30",
+          "what": "Orange Street, Horie",
+          "notes": "Independent fashion and homeware.",
+          "map": "Orange Street, Horie, Osaka"
+        },
+        {
+          "time": "13:00",
+          "what": "Lunch: Okonomiyaki Mizuno",
+          "notes": "Dotonbori. Daily 11:00 to 21:00. Try the yamaimo-yaki. Order while queuing.",
+          "map": "Okonomiyaki Mizuno, Dotonbori, Osaka"
+        },
+        {
+          "time": "14:30",
+          "what": "Amerika-Mura vintage",
+          "map": "Amerikamura, Osaka"
+        },
+        {
+          "time": "15:30",
+          "what": "Coffee: LiLo Coffee Roasters",
+          "notes": "Edge of Amemura. Daily 11:00 to 23:00.",
+          "map": "LiLo Coffee Roasters, Osaka"
+        },
+        {
+          "time": "16:30",
+          "what": "Shinsaibashi-suji",
+          "notes": "Fashion, cosmetics, Don Quijote.",
+          "map": "Shinsaibashi-suji, Osaka"
+        },
+        {
+          "time": "18:30",
+          "what": "Dotonbori at night, dinner to decide",
+          "label": "Evening",
+          "map": "Dotonbori, Osaka"
+        }
+      ]
+    },
+    "2026-11-02": {
+      "title": "Day trip: Nara",
+      "route": "Kintetsu Namba to Kintetsu Nara (about 40 min), Chami, Todai-ji, Wakakusayama, Kasuga Taisha, Naramachi, all walking, Kintetsu back.",
+      "stops": [
+        {
+          "time": "08:00",
+          "what": "Kintetsu Namba to Kintetsu Nara",
+          "notes": "IC card OK."
+        },
+        {
+          "time": "08:45",
+          "what": "Breakfast and coffee: Chami",
+          "notes": "Near Nara Park. Daily 07:30 to 19:00.",
+          "map": "Chami coffee, Nara"
+        },
+        {
+          "time": "09:30",
+          "what": "Todai-ji",
+          "notes": "Great Buddha Hall.",
+          "map": "Todaiji, Nara"
+        },
+        {
+          "time": "11:00",
+          "what": "Wakakusayama hike",
+          "notes": "Forest trail on the back side.",
+          "map": "Mount Wakakusa, Nara"
+        },
+        {
+          "time": "13:00",
+          "what": "Kasuga Taisha",
+          "notes": "Lantern-lined shrine.",
+          "map": "Kasuga Taisha, Nara"
+        },
+        {
+          "time": "13:30",
+          "what": "Lunch to decide",
+          "notes": "Hiraso (kakinoha-zushi) is closed Mondays."
+        },
+        {
+          "time": "14:30",
+          "what": "Naramachi craft district",
+          "notes": "Akahada-yaki pottery, sumi ink.",
+          "map": "Naramachi, Nara"
+        },
+        {
+          "time": "15:30",
+          "what": "Coffee: TABI Coffee Roaster",
+          "notes": "Naramachi, 5 Tsubaicho. Pour-over only, in an alley. Mon 09:30 to 18:00.",
+          "map": "TABI Coffee Roaster, Nara"
+        },
+        {
+          "time": "17:00",
+          "what": "Kintetsu back to Namba",
+          "label": "~17:00",
+          "notes": "Dinner in Osaka to decide."
+        }
+      ]
+    },
+    "2026-11-03": {
+      "title": "Kita coffee day (Culture Day holiday)",
+      "route": "Walking: Kyomachibori, Utsubo Park, Edobori, Nakanoshima, Umeda, Nakazakicho, Tenjinbashisuji, Tenma. Pick 2 of the 3 roasters.",
+      "notes": [
+        "Izakaya Toyo is closed on public holidays."
+      ],
+      "stops": [
+        {
+          "time": "09:00",
+          "what": "Coffee: Ult Coffee Roasters",
+          "notes": "Kyomachibori. Daily 08:00 to 18:00.",
+          "map": "Ult Coffee Roasters, Kyomachibori, Osaka"
+        },
+        {
+          "time": "10:00",
+          "what": "Utsubo Park",
+          "notes": "Next door.",
+          "map": "Utsubo Park, Osaka"
+        },
+        {
+          "time": "11:00",
+          "what": "Coffee: Takamura Wine & Coffee Roasters",
+          "notes": "Edobori. Opens 11:00. Homemade doughnuts.",
+          "map": "Takamura Wine & Coffee Roasters, Osaka"
+        },
+        {
+          "time": "12:00",
+          "what": "Coffee: Glitch Coffee Osaka (optional)",
+          "notes": "Festival Tower West 1F, Nakanoshima.",
+          "map": "Glitch Coffee Osaka, Festival Tower West"
+        },
+        {
+          "time": "13:00",
+          "what": "Umeda: lunch and shopping",
+          "notes": "Grand Front, LUCUA, Hankyu.",
+          "map": "Grand Front Osaka"
+        },
+        {
+          "time": "15:30",
+          "what": "Nakazakicho",
+          "notes": "Old alleys, vintage, cafés. Yatt Nakazakicho café (10:00 to 20:00, scones and pudding).",
+          "map": "Nakazakicho, Osaka"
+        },
+        {
+          "time": "17:00",
+          "what": "Tenjinbashisuji",
+          "notes": "Longest covered shopping street in Japan. Walk south toward Tenma.",
+          "map": "Tenjinbashisuji Shopping Street, Osaka"
+        },
+        {
+          "time": "18:30",
+          "what": "Dinner: Tenma izakaya hopping",
+          "notes": "Walk-in alleys around JR Tenma station. Harukoma sushi is closed Tuesdays.",
+          "map": "JR Tenma Station, Osaka"
+        }
+      ]
+    },
+    "2026-11-04": {
+      "title": "Fushimi Inari at dawn, Izakaya Toyo",
+      "route": "Keihan line to Fushimi-Inari, summit loop on foot, Keihan back to Kyobashi (same line), Toyo, JR to Umeda (10 min).",
+      "stops": [
+        {
+          "time": "06:30",
+          "what": "Keihan line to Fushimi-Inari",
+          "notes": "About 50 min."
+        },
+        {
+          "time": "07:30",
+          "what": "Fushimi Inari Taisha, full summit loop",
+          "notes": "About 2.5 to 3 hours. Upper gates nearly empty this early.",
+          "map": "Fushimi Inari Taisha, Kyoto"
+        },
+        {
+          "time": "11:15",
+          "what": "Keihan Fushimi-Inari to Kyobashi",
+          "label": "~11:15"
+        },
+        {
+          "time": "12:30",
+          "what": "Queue for Izakaya Toyo",
+          "notes": "3-2-26 Higashinodamachi, 1 min from JR Kyobashi. Opens 13:00, L.O. 18:30. Cash only, no reservations. Seared tuna cheek, uni, fatty tuna.",
+          "map": "Izakaya Toyo, Kyobashi, Osaka"
+        },
+        {
+          "time": "15:00",
+          "what": "Rest, pack, or final Umeda shopping",
+          "notes": "Glitch Osaka open weekdays 08:00 to 19:00 if skipped yesterday."
+        },
+        {
+          "time": "18:30",
+          "what": "Dinner to decide, prep bags",
+          "label": "Evening",
+          "notes": "Tomorrow: ship main bags to the Tokyo hotel, travel to Arashiyama with an overnight bag."
+        }
+      ]
+    }
+  }
 }
